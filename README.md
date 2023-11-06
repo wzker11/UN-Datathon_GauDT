@@ -1,1 +1,2 @@
 # UN-Datathon_GauDT
+The size of the global digital economy has been steadily growing, despite this, many are unable to take advantage of the growing market; there exists a correlation between the access to digital infrastructure and the wealth of a region. Investments funds are limited and many poverty maps are out of date or exist with only very coarse levels of granularity [1]. A robust and accurate model of how digital infrastructure maturity level affects the relative wealth of a region is required to ensure optimal return of investment. 
